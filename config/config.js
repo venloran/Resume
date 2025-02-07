@@ -1,14 +1,14 @@
 var config = {
     /*在这里配置你的基本信息，所有数据以字符串形式给出*/
-    name: "卢本伟",
+    name: "刘胜伟",
     sex: "男",
-    age: "19",
-    phone: "19872222222",
-    email: "happysnaker@foxmail.com this`s true",
-    address: "现居浙江省义乌市",
-    qq: "11",
+    age: "23",
+    phone: "19953017610",
+    email: "venloran@gmail.com",
+    address: "现居北京市海淀区",
+    qq: "3021849509",
     log: "Happysnaker",
-    excpect_work: "Java/Go后端开发",
+    excpect_work: "期望工作",
 
 
     /*在这里配置首页的座右铭集合*/
@@ -33,7 +33,7 @@ var config = {
     /*在这里配置首页的见面信息，你可以内嵌HTML标签以调整格式*/
     welcome: "青青子衿，悠悠我心<br>" +
              "但为君故，沉吟至今<br>" +
-             "你好，我是卢本伟，南昌大学软件工程大二在读生<br>" +
+             "你好，我是刘胜伟<br>" +
              "很高兴见到你!",
 
 
